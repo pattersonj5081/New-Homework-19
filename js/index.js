@@ -1,3 +1,3 @@
-$("logo").on("click",function(){
+$(".logo").on("click",function(){
 $(this).hide();
 });
